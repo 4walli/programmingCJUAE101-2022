@@ -1,0 +1,4 @@
+﻿  main_02.5.cpp
+C:\Users\Cju\Documents\GitHub\programmingCJUAE101-2022\2.5st_week\prob_02.5\prob_02.5\main_02.5.cpp(11,10): warning C4477: 'scanf_s' : 서식 문자열 '%i'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\Cju\Documents\GitHub\programmingCJUAE101-2022\2.5st_week\prob_02.5\prob_02.5\main_02.5.cpp(11,10): warning C4477: 'scanf_s' : 서식 문자열 '%i'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+  prob_02.5.vcxproj -> C:\Users\Cju\Documents\GitHub\programmingCJUAE101-2022\2.5st_week\prob_02.5\x64\Debug\prob_02.5.exe
